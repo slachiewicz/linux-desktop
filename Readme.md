@@ -18,7 +18,7 @@ Ships with
 - xterm (from base image)
 
 Powered by:
-- [noVNC](https://github.com/novnc) by [Joel Martin](https://twitter.com/bus_kanaka)
+- [noVNC](https://github.com/novnc) by [Joel Martin](https://twitter.com/bus_kanaka) [and team](https://github.com/novnc/novnc#authorscontributors)
 - [websockify-uws](https://github.com/zeit/websockify-uws) by [Joel Martin](https://twitter.com/bus_kanaka)
   and [Guillermo Rauch](https://github.com/rauchg)
 - Alpine Linux
