@@ -1,0 +1,6 @@
+session.menuFile:       ~/.fluxbox/menu
+session.keyFile: ~/.fluxbox/keys
+session.styleFile: /usr/share/fluxbox/styles/bloe
+session.configVersion:  13
+session.screen0.toolbar.tools: clock, systemtray
+session.screen0.rootCommand: /init-env.sh

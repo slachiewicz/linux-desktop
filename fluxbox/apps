@@ -1,0 +1,17 @@
+[app] (name=xclock)
+  [Deco]        {NONE}
+  [Layer]       {12}
+  [Close]       {no}
+[end]
+
+[app] (name=feh)
+  [Deco]        {NONE}
+  [Layer]       {12}
+  [Close]       {no}
+[end]
+
+[app] (name=wbar)
+  [Deco]        {NONE}
+  [Layer]       {12}
+  [Close]       {no}
+[end]

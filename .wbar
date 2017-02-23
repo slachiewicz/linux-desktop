@@ -1,0 +1,15 @@
+i: /usr/share/pixmaps/wbar/dock.png
+c: wbar --bpress --nofont --pos top --isize 32 --grow --idist 5 --nanim 4 --falfa 65
+t: /10
+
+i: /usr/share/pixmaps/xterm-color_48x48.xpm
+c: xterm
+t: xterm
+
+i: /usr/share/pixmaps/firefox.png
+c: firefox
+t: firefox
+
+i: /usr/share/pixmaps/wbar/wbar.png
+c: wbar-config
+t: Config
