@@ -6,7 +6,7 @@ with one command:
 To deploy it, [install now](https://zeit.co/download) and run:
 
 ```bash
-now now-examples/linux-desktop
+now tobihrbr/linux-desktop
 ```
 
 [Now](https://zeit.co/now) will give you a unique, private URL for
@@ -39,6 +39,8 @@ and point your browser to `http://localhost:3000`
 Based on the [alpine-vnc](https://github.com/danielguerra69/alpine-vnc) Dockerfile by Daniel Guerra
 
 Authored by [Guillermo Rauch](https://github.com/rauchg)
+
+Modified by [Tobihrbr](https://github.com/tobihrbr)
 
 ## License
 
