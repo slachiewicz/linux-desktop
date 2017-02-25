@@ -44,4 +44,5 @@ Modified by [Tobihrbr](https://github.com/tobihrbr)
 
 ## License
 
-MIT – Copyright Zeit, Inc ® 2017
+MIT
+
